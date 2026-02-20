@@ -249,8 +249,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [https://github.com/awais4212)
+- Email: awaisalihashmi@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -271,4 +271,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ☕ and ❤️
 
 **Support this project by buying me a chai!** 😊
-[Your Profile Link](https://your-app-url.vercel.app/yourusername)
+[My Profile Link](https://github.com/awais4212)
